@@ -1,0 +1,8 @@
+# TOML (Tom’s Obvious, Minimal Language) format
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["vietvu-nguyen <"]
+edition = "2018"
+
+[dependencies]
